@@ -9,6 +9,7 @@ A readme for the Long Covid App created by students at Sheffield Hallam Universi
 ## Contributers
 
 - George I B Hulbert: <georgeibhulbert@icloud.com>
+- Isaac Bowyer: <isaacbowyer@googlemail.com>
 
 ---
 
