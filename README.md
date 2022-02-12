@@ -10,7 +10,7 @@ A readme for the Long Covid App created by students at Sheffield Hallam Universi
 
 - George I B Hulbert: <georgeibhulbert@icloud.com>
 - Isaac Bowyer: <isaacbowyer@googlemail.com>
-- Dominic Backhouse <b9019847@my.shu.ac.uk>
+- Dominic Backhouse: <b9019847@my.shu.ac.uk>
 
 ---
 
