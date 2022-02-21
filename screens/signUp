@@ -18,7 +18,7 @@ function SignUp(props) {
         <ImageBackground
           style={styles.rect2}
           imageStyle={styles.rect2_imageStyle}
-          source={require("../assets/images/Gradient_PADJxcJ.png")}
+          source={require("../assets/Gradient_PADJxcJ.png")}
         >
           <View style={styles.elaros1Column}>
             <Text style={styles.elaros1}>elaros</Text>

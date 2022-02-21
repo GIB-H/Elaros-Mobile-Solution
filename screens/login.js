@@ -18,7 +18,7 @@ function Login(props) {
         <ImageBackground
           style={styles.rect}
           imageStyle={styles.rect_imageStyle}
-          source={require("../assets/images/Gradient_THN7RLe.png")}
+          source={require("../assets/Gradient_THN7RLe.png")}
         >
           <View style={styles.elarosColumn}>
             <Text style={styles.elaros}>elaros</Text>
