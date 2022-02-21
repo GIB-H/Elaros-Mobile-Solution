@@ -10,9 +10,6 @@ import stats from '../screens/stats';
 
 
 const screens = {
-    createGoal: {
-        screen: createGoal
-    },
 }
 
 const HomeStack = createStackNavigator(screens);
